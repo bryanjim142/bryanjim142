@@ -26,3 +26,4 @@ Próximamente con pruebas funcionales y de API documentadas.
 ## 📫 Contacto
 
 [![Gmail](https://img.shields.io/badge/brianjim24@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:brianjim24@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/314%203001989-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573143001989)
